@@ -1,9 +1,7 @@
 {
   "name": "react-calculator",
-<<<<<<< HEAD
-=======
-  "homepage": "http://ashu-tech07.github.io/recat-calculator",
->>>>>>> 1298d2fc870f920e153ecba0d001d68021c198ef
+  "homepage": "http://ashu-tech07.github.io/react-calculator",
+
   "version": "0.1.0",
   "private": true,
   "dependencies": {
